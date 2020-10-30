@@ -1,0 +1,10 @@
+git clone https://github.com/a-a-ron/github-actions-course-template.git
+git branch -a
+git checkout add-jest
+git checkout team-workflow
+git branch -a
+git remote -v
+git remote set-url origin https://github.com/NBT407/github-actions-course-template.git
+
+git branch -M main
+git push -u origin main
